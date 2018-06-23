@@ -17,6 +17,7 @@
 根据文中的实验结果，CNN-static(经过word2vec)比CNN-rand有较大提升。CNN-static\CNN-non-static\CNN-multichannel则各有千秋。比较有趣的是，文中还把CNN-non-static经过fine-tune的词向量进行了比较：
 
 ![fine tune后的词向量](https://userno666.github.io/paper%20learn/2018-06-23%2014-48-44屏幕截图.png)
+
 原本bad和good有相似的句法结构，所以在原始词向量中它们较为接近。而经过fine tune后，则这一明显违反事实的现象明显得到了改观。
 
 接下来，针对不能解决长距离词语的相互作用的问题，我会看一下DCNN（Dynamic Convolutional Neural Network）的论文。
