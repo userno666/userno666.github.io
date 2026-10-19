@@ -1,8 +1,8 @@
 <h1 align="center">Tao Wang · 王涛</h1>
 
 <p align="center">
-  <b>School of Software Engineering</b><br>
-  Huazhong University of Science and Technology
+  <b>Advertising Algorithm Engineer</b> · ByteDance<br>
+  School of Software Engineering, Huazhong University of Science and Technology
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## About
 
-I am a student in the School of Software Engineering at Huazhong University of Science and Technology (HUST). My work centers on computational advertising and machine learning — from candidate retrieval and ranking to auction design and user modeling — with a particular interest in how large-scale models can make advertising systems more relevant and more efficient.
+I am an advertising algorithm engineer at ByteDance, where I work on the algorithms behind large-scale advertising systems — from candidate retrieval and ranking to auction design and budget allocation. I am also affiliated with the School of Software Engineering at Huazhong University of Science and Technology (HUST). My interests include computational advertising, CTR/CVR prediction, and the application of large language models to advertising.
 
 ## Research Interests
 
@@ -24,12 +24,12 @@ I am a student in the School of Software Engineering at Huazhong University of S
 | **Learning to Rank** | Multi-stage ranking and relevance–utility trade-offs |
 | **Recommender Systems** | User modeling, cold start, and long-term engagement |
 | **LLMs for Advertising** | LLM-based query understanding, creative generation, and ranking |
-| **Auction & Bidding** | Mechanism design, pacing, and budget allocation |
 
 ## Contact
 
 - **Email:** [wangtao.0911@bytedance.com](mailto:wangtao.0911@bytedance.com)
-- **Affiliation:** School of Software Engineering, Huazhong University of Science and Technology
+- **Company:** ByteDance — Advertising Algorithm Engineer
+- **School:** School of Software Engineering, Huazhong University of Science and Technology
 
 ---
 
